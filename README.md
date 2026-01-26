@@ -18,11 +18,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **Rust and GraphQL**
-- 👯 I’m looking to collaborate on **Open Source projects**
-- 💬 Ask me about **React, Node.js, and Cloud Architecture**
-- ⚡ Fun fact: **I code faster than I type!**
+-  I’m currently working on **[School-sv]**
+-  I’m currently learning **Rust and GraphQL**
+-  I’m looking to collaborate on **Open Source projects**
+-  Ask me about **React, Node.js, and Cloud Architecture**
+-  Fun fact: **I code faster than I type!**
 
 ---
 
@@ -36,21 +36,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
