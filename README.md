@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-###  Transforming Ideas into Reality Through Code 💫
+###  Transforming Ideas into Reality Through Code 
 
 <p align="center">
   <a href="https://twitter.com/YOUR_TWITTER">
@@ -85,7 +85,7 @@ const deshan = {
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  GitHub Stats
+##  GitHub Status
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeshanRashmika&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
@@ -96,38 +96,6 @@ const deshan = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeshanRashmika&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeshanRashmika&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-##  GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeshanRashmika&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-##  Current Focus
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Learning] --> B[Rust]
-    A --> C[GraphQL]
-    A --> D[System Design]
-    B --> E[Building]
-    C --> E
-    D --> E
-    E --> F[Scalable Solutions]
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  Featured Projects
 
@@ -159,15 +127,7 @@ graph LR
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-![Snake animation](https://raw.githubusercontent.com/DeshanRashmika/DeshanRashmika/output/github-contribution-grid-snake.svg)
-
-<!-- Dark mode -->
-![Snake animation dark](https://raw.githubusercontent.com/DeshanRashmika/DeshanRashmika/output/github-contribution-grid-snake-dark.svg)
-
-
+![GitHub Snake Animation](https://github.com/DeshanRashmika/DeshanRashmika/blob/output/github-snake.svg)
 
 <img src="https://komarev.com/ghpvc/?username=DeshanRashmika&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 
