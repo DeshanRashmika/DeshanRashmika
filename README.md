@@ -161,36 +161,6 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  Contribution Snake
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate GitHub contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: DeshanRashmika
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/DeshanRashmika/DeshanRashmika/output/github-contribution-grid-snake.svg)
 
