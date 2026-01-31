@@ -30,11 +30,11 @@
 ```typescript
 const deshan = {
     pronouns: "He" | "Him",
-    location: " Building from anywhere",
+    location: " Mawanella",
     currentlyWorking: "School-sv ",
     learning: ["Rust ", "GraphQL ", "System Design "],
     lookingFor: "Challenging Open Source Projects ",
-    askMeAbout: ["React ⚛️", "Node.js 🟢", "Cloud Architecture ☁️", "System Design "],
+    askMeAbout: ["React ⚛️", "Node.js 🟢", "Cloud Architecture ☁️","Java☕", "System Design "],
     funFact: "I code faster than I type! ",
     goals2026: "Contribute to more open source & build scalable systems",
     hobbies: ["Coding ", "Reading ", "Problem Solving"]
