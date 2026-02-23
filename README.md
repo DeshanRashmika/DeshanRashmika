@@ -100,7 +100,7 @@ const deshan = {
 <div align="center">
 
 <a href="https://github.com/DeshanRashmika/school-sv">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeshanRashmika&repo=school-sv&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="School-sv" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeshanRashmika&repo=thogakade-web &theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Thogakade" />
 </a>
 
 </div>
