@@ -28,7 +28,7 @@
 ##  About Me
 
 ```typescript
-const deshan = {
+const Deshan = {
     pronouns: "He" | "Him",
     location: " Mawanella",
     currentlyWorking: "School-sv ",
