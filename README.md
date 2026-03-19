@@ -34,7 +34,7 @@ const Deshan = {
     currentlyWorking: "AI Gateway - Ai data filter project ",
     learning: ["Apache Tika ", "System Design", "postgresql"],
     lookingFor: "Challenging Open Source Projects ",
-    askMeAbout: [ "Node.js 🟢", "Cloud Architecture ☁️","Java☕", "System Design ", "Spring Boot", "Java Script"],
+    askMeAbout: ["Node.js 🟢", "Cloud Architecture ☁️","Java☕", "System Design ", "Spring Boot", "Java Script"],
     funFact: "I code faster than I type! ",
     goals2026: "Contribute to more open source & build scalable systems",
     hobbies: ["Coding ", "Reading ", "Problem Solving"]
