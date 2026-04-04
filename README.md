@@ -30,88 +30,22 @@
 
 ---
 
-## 🧠 About Me
+### Tech Arsenal
 
-```typescript
-const Deshan: Developer = {
-  pronouns  : "He / Him",
-  location  : " Mawanella, Sri Lanka",
-  currently : "  Building AI Gateway — an intelligent data filter pipeline",
-  learning  : ["Apache Tika", "System Design", "PostgreSQL", "Distributed Systems"],
-  seeking   : " Challenging open-source collaborations",
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,dart" alt="Languages" />
 
-  askMeAbout: [
-    "Node.js ", "Spring Boot ", "Cloud Architecture ",
-    "Java ",  "Angular ", "System Design ", 
-  ],
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,angular" alt="Frontend" />
 
-  goals2026 : [
-    "Contribute to 10+ open-source projects",
-    "Master Rust & advanced system design",
-    "Mentor aspiring developers",
-    "Ship 3 production-ready products",
-  ],
-};
-```
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,spring" alt="Backend" />
 
----
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases" />
 
-##  Tech Arsenal
-
-###  Languages
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-</div>
-
-###  Frontend
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-###  Backend
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-</div>
-
-###  Databases
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
+**Cloud & DevOps**<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" alt="Cloud and DevOps" />
 
 ---
 
@@ -138,18 +72,6 @@ const Deshan: Developer = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/DeshanRashmika/thogakade-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeshanRashmika&repo=thogakade-web&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
-
-</div>
-
----
-
 ## 💡 Dev Quote of the Day
 
 <div align="center">
@@ -159,14 +81,15 @@ const Deshan: Developer = {
 </div>
 
 ---
-
+### 🎮 Contribution Game
 
 <div align="center">
-
-![Snake animation](https://github.com/DeshanRashmika/DeshanRashmika/blob/output/github-snake-dark.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeshanRashmika/DeshanRashmika/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeshanRashmika/DeshanRashmika/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Game" src="https://raw.githubusercontent.com/DeshanRashmika/DeshanRashmika/output/pacman-contribution-graph-dark.svg" width="100%">
+  </picture>
 </div>
-
 ---
 
 <div align="center">
