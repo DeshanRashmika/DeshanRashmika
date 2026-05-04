@@ -42,7 +42,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,spring" alt="Backend" />
 
 **Databases**<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
 
 **Cloud & DevOps**<br>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" alt="Cloud and DevOps" />
