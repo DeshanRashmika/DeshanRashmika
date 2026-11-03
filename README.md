@@ -39,10 +39,10 @@
 <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,angular" alt="Frontend" />
 
 **Backend**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,spring" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,django" alt="Backend" />
 
 **Databases**<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" alt="Databases" />
 
 **Cloud & DevOps**<br>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" alt="Cloud and DevOps" />
